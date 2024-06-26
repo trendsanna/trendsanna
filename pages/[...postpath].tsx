@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://bauptost.net/4/6565150/` 
+					`https://indelicateexcept.com/ewv0zjzq?key=198625801310ec9350bbf63c4b3c3eca/` 
 				}`,
 			},
 		};
